@@ -8,6 +8,7 @@ Python developer, freelancer and open source enthusiast
 
 - :envelope: **mailto:** dmitriik@protonmail.com
 - :incoming_envelope: **telegram:** [@dmitrii_web](https://t.me/dmitrii_web)
+- :bird: **twitter**: [@aut0mati0n_guru](https://twitter.com/aut0mati0n_guru)
 
 ![AM@GH](https://github-readme-stats.vercel.app/api/?username=dmitriiweb&show_icons=true&title_color=fff&icon_color=35a8df&text_color=9f9f9f&bg_color=151515)
 
