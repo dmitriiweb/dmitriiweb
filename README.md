@@ -7,7 +7,7 @@ Python developer, freelancer and open source enthusiast
 ### Contacts:
 
 - :envelope: **mailto:** dmitriik@protonmail.com
-- ::bust_in_silhouette: **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/dmitrii-k-145307222/)
+- :bust_in_silhouette: **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/dmitrii-k-145307222/)
 - :incoming_envelope: **telegram:** [@dmitrii_web](https://t.me/dmitrii_web)
 - :bird: **twitter**: [@aut0mati0n_guru](https://twitter.com/aut0mati0n_guru)
 
