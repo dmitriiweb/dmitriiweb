@@ -7,11 +7,10 @@ Python developer, freelancer and open source enthusiast
 ### Contacts:
 
 [![Foo](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmitriik@protonmail.com)
+[![Foo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrii_web)
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-k-145307222/)
+[![Foo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aut0mati0n_guru)
 
-- :envelope: **mailto:** dmitriik@protonmail.com
-- :bust_in_silhouette: **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/dmitrii-k-145307222/)
-- :incoming_envelope: **telegram:** [@dmitrii_web](https://t.me/dmitrii_web)
-- :bird: **twitter**: [@aut0mati0n_guru](https://twitter.com/aut0mati0n_guru)
 
 ![AM@GH](https://github-readme-stats.vercel.app/api/?username=dmitriiweb&show_icons=true&title_color=fff&icon_color=35a8df&text_color=9f9f9f&bg_color=151515)
 
