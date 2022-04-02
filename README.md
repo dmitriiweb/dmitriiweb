@@ -17,4 +17,7 @@ Python developer, freelancer and open source enthusiast
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriiweb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python: An easy way to extract data from PDF tables](https://medium.com/@winston.smith.spb/python-an-easy-way-to-extract-data-from-pdf-tables-c8de22308341?source=rss-59e445e8d949------2)
+- [Python: Selenium Speed Scraping](https://medium.com/@winston.smith.spb/python-selenium-speed-scraping-45bda525e42?source=rss-59e445e8d949------2)
+- [Python: OCR for PDF or Compare textract, pytesseract, and pyocr](https://medium.com/@winston.smith.spb/python-ocr-for-pdf-or-compare-textract-pytesseract-and-pyocr-acb19122f38c?source=rss-59e445e8d949------2)
 <!-- BLOG-POST-LIST:END -->
