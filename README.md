@@ -15,17 +15,12 @@ Python developer, freelancer and open source enthusiast
 ![AM@GH](https://github-readme-stats.vercel.app/api/?username=dmitriiweb&show_icons=true&title_color=fff&icon_color=35a8df&text_color=9f9f9f&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitriiweb&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriiweb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Python: An easy way to extract data from PDF tables](https://medium.com/@winston.smith.spb/python-an-easy-way-to-extract-data-from-pdf-tables-c8de22308341?source=rss-59e445e8d949------2)
 - [Python: Selenium Speed Scraping](https://medium.com/@winston.smith.spb/python-selenium-speed-scraping-45bda525e42?source=rss-59e445e8d949------2)
 - [Python: OCR for PDF or Compare textract, pytesseract, and pyocr](https://medium.com/@winston.smith.spb/python-ocr-for-pdf-or-compare-textract-pytesseract-and-pyocr-acb19122f38c?source=rss-59e445e8d949------2)
 <!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
