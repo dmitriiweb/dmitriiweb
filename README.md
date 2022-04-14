@@ -21,3 +21,6 @@ Python developer, freelancer and open source enthusiast
 - [Python: Selenium Speed Scraping](https://medium.com/@winston.smith.spb/python-selenium-speed-scraping-45bda525e42?source=rss-59e445e8d949------2)
 - [Python: OCR for PDF or Compare textract, pytesseract, and pyocr](https://medium.com/@winston.smith.spb/python-ocr-for-pdf-or-compare-textract-pytesseract-and-pyocr-acb19122f38c?source=rss-59e445e8d949------2)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
