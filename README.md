@@ -18,16 +18,16 @@ Python developer, freelancer and open source enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Total Time: 12 hrs 34 mins
+Total Time: 12 hrs 30 mins
 
-Python           10 hrs 12 mins  ████████████████████░░░░░   80.50 %
-Jupyter          50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Docker           28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Markdown         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-YAML             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-TOML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python           9 hrs 21 mins   ██████████████████▓░░░░░░   74.86 %
+Jupyter          50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+YAML             33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+HTML             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Docker           28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
