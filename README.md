@@ -18,16 +18,16 @@ Python developer, freelancer and open source enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2022 - To: 17 May 2022
+From: 11 May 2022 - To: 18 May 2022
 
-Total Time: 11 hrs 53 mins
+Total Time: 13 hrs 21 mins
 
-Python           11 hrs 14 mins  ███████████████████████▓░   94.51 %
-Markdown         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-TOML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Makefile         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-INI              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python           12 hrs 28 mins  ███████████████████████▒░   93.41 %
+Markdown         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TOML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+SQL              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+INI              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
