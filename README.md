@@ -18,16 +18,16 @@ Python developer, freelancer and open source enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
-Total Time: 15 hrs 30 mins
+Total Time: 18 hrs 21 mins
 
-Python           14 hrs 19 mins  ███████████████████████░░   92.37 %
-Markdown         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-HTML             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-.env file        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python           16 hrs 54 mins  ███████████████████████░░   92.16 %
+Markdown         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+HTML             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Jupyter          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+.env file        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
