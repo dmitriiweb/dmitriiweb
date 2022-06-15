@@ -18,16 +18,16 @@ Python developer, freelancer and open source enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
-Total Time: 9 hrs 50 mins
+Total Time: 12 hrs 42 mins
 
-Rust             5 hrs 48 mins   ██████████████▓░░░░░░░░░░   59.00 %
-Python           3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.28 %
-TOML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CSV              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python           6 hrs 36 mins   █████████████░░░░░░░░░░░░   51.97 %
+Rust             5 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   45.70 %
+TOML             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+CSV              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
