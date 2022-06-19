@@ -15,22 +15,6 @@ Python developer, freelancer and open source enthusiast
 ![AM@GH](https://github-readme-stats.vercel.app/api/?username=dmitriiweb&show_icons=true&title_color=fff&icon_color=35a8df&text_color=9f9f9f&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitriiweb&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriiweb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:waka-->
-
-```text
-From: 11 June 2022 - To: 18 June 2022
-
-Total Time: 9 hrs 2 mins
-
-Python           7 hrs 25 mins   ████████████████████▓░░░░   82.08 %
-Rust             1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-TOML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-CSV              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
