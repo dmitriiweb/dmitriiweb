@@ -1,4 +1,4 @@
-## Dmitrii Kurlov
+## Dmitrii K
 
 Python developer, freelancer and open source enthusiast
 
